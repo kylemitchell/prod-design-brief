@@ -9,3 +9,6 @@ _Remove any unnecessary questions so you can customize this doc_
 - What phase of work is necessary? _Wireframe? Wireflow? Prototype? Mid-fidelity, Hi-Fidelity etc._
 
 ### What is the user's outcome
+### What do we already know?
+- What is assumed (anecdotally) that we know about the users? 
+- What do we already know that is based in research? _(include links or quotes from the research)_
