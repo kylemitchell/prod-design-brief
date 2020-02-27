@@ -25,7 +25,11 @@ Metrics are not a user's goal, an outcome can provide better measure of effectiv
 
 ## Attributes
 ### Hard Attributes
+_Hard-Attributes are objective and measurable, and have to do principally with the functioning and performance of a product; for example, strength, speed, weight, and price. It is however good for us to keep an eye on these limitations, constraints._
 - List or explain any technical requirements
 - List or explain any feature dependencies
 - List or explain any capability requirements
 - Include project milestone dates
+
+### Soft Attributes
+_For the most part, these attributes have to do with the character of the product and its userexperience._
