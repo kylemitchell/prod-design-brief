@@ -12,3 +12,10 @@ _Remove any unnecessary questions so you can customize this doc_
 ### What do we already know?
 - What is assumed (anecdotally) that we know about the users? 
 - What do we already know that is based in research? _(include links or quotes from the research)_
+
+## Attributes
+### Hard Attributes
+- List or explain any technical requirements
+- List or explain any feature dependencies
+- List or explain any capability requirements
+- Include project milestone dates
