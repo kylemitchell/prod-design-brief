@@ -32,4 +32,8 @@ _Hard-Attributes are objective and measurable, and have to do principally with t
 - Include project milestone dates
 
 ### Soft Attributes
-_For the most part, these attributes have to do with the character of the product and its userexperience._
+_These attributes have to do with the character of the product and its userexperience._
+
+- Ideal innovation level
+- How should the feature make the user feel? 
+- How would this feature benefit a user?
