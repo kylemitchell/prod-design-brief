@@ -22,3 +22,22 @@ Metrics are not a user's goal, an outcome can provide better measure of effectiv
 - Which user problems or needs are you trying to solve?
 - For whom are you solving this problem?
 - How does solving this problem help your business?
+
+## Attributes
+### Hard Attributes
+_Hard-Attributes are objective and measurable, and have to do principally with the functioning and performance of a product; for example, strength, speed, weight, and price. It is however good for us to keep an eye on these limitations, constraints._
+- List or explain any technical requirements
+- List or explain any feature dependencies
+- List or explain any capability requirements
+- Include project milestone dates
+
+### Soft Attributes
+_These attributes have to do with the character of the product and its userexperience._
+
+- Ideal innovation level
+  - [ ] Wireframe
+  - [ ] Wireflow
+  - [ ] Prototype
+  - [ ] Full Fidelity Composition 
+- How should the feature make the user feel? 
+- How would this feature benefit a user?
