@@ -35,5 +35,9 @@ _Hard-Attributes are objective and measurable, and have to do principally with t
 _These attributes have to do with the character of the product and its userexperience._
 
 - Ideal innovation level
+  - [ ] Wireframe
+  - [ ] Wireflow
+  - [ ] Prototype
+  - [ ] Full Fidelity Composition 
 - How should the feature make the user feel? 
 - How would this feature benefit a user?
