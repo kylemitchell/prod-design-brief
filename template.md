@@ -41,3 +41,7 @@ _These attributes have to do with the character of the product and its userexper
   - [ ] Full Fidelity Composition 
 - How should the feature make the user feel? 
 - How would this feature benefit a user?
+
+## Competitive Analysis
+- What are our competitors doing to solve these problems? 
+- What opportunities do we have to make the experience better for our users?
