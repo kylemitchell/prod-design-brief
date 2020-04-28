@@ -16,7 +16,7 @@ _Remove any unnecessary questions so you can customize this doc_
 
 ## User Outcomes
 Describe the ideal user outcome...
->For example, for a B2B website, an output could be whitepapers and demonstration videos. The outcome could be knowledge gained by customers. Unless you know what information people need and how they will use this information, it is premature to say whether or not a whitepaper or video is the correct solution.
+>Outcomes are the human behaviors that drive business results. For example,for our users an output could be could be placing a bet, or entering a contest. The outcome could be increased enjoyment of watching the game. Upon post-mortem, be able to answer “What user behaviors has this initiative created that are driving business results?”
 
 ### State the problem
 - Which user problems or needs are you trying to solve?
